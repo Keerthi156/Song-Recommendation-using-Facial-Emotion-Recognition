@@ -29,7 +29,4 @@ To run the program, execute the following command,
 python main.py
 ```
 
-## Contributors
-1. Ritik Gupta
-2. Vishu Garg
 
